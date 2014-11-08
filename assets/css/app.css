@@ -12,6 +12,9 @@ body {
     background-color: #f4f7fc;
     color: rgba(28, 45, 60, 0.95);
 }
+img {
+    max-width: 100%;
+}
 .row {
     max-width: 80rem;
 }
@@ -205,6 +208,7 @@ footer .content p a {
 }
 footer.meta {
     margin: 15px 0;
+    clear: both;
 }
 footer.meta i, .meta .categories i {
     color: #2697f7;
