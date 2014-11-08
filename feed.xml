@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<channel>
+  <title>Gerton ten Ham</title>
+  <link>http://localhost:8080</link>
+  <description>Gerton ten Ham beschrijft hier zijn ervaringen met permacultuur.</description>
+  
+  
+  
+  <item>
+    <title>Gestart met de Permacultuur opleiding</title>
+    <author></author>
+    <link>http://localhost:8080/articles/permacultuur-opleiding-2014/</link>
+    <guid isPermaLink="true">http://localhost:8080/articles/permacultuur-opleiding-2014/</guid>
+    <pubDate>Thu, 25 Sep 2014 02:00:00 +0200</pubDate>
+    <description><![CDATA[ <p>In september is er weer een permacultuur jaartraining gestart in Utrecht aan de Daalseweg. Door omstandigheden was het voor mij
+ niet mogelijk om in 2013 te starten dus het leek mij dan ook nu de tijd om aan deze jaartraining mee te doen.</p>
+<h3 id="reden-om-deze-training-te-doen">Reden om deze training te doen</h3>
+<p>Een paar jaar geleden ben ik begonnen aan de kruidenopleiding van het Kruidenrijk. Wat ik daar vooral geleerd heb, behalve welke
+kruiden gebruikt kunnen worden om je gezondheid te bewaren, is dat ik graag praktisch bezig wil zijn met planten.</p>
+<p>Nu, een paar jaar later, ben ik overtuigd dat je gezondheid niet alleen maar met kruiden is op te lossen maar dat voeding, en vooral
+gezond voedsel, de basis is voor een gezond lichaam.</p>
+<p>Wat ik het komende jaar hoop te leren is hoe ik zelf gezond voedsel op een <em>natuurlijke</em> manier kan telen. Hopelijk kan ik
+mijn ervaringen via deze blog delen.</p>
+ ]]></description>
+  </item>
+  
+</channel>
+</rss>

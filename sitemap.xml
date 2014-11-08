@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+  
+    
+  <url>
+      <loc>http://localhost:8080/C:\data\projects\private\gertontenham.nl\contents\index.html</loc>
+      <lastmod>2014-11-08</lastmod>
+      
+      <changefreq>daily</changefreq>
+      
+      
+      <priority>0.9</priority>
+      
+   </url>
+  
+    
+  <url>
+      <loc>http://localhost:8080/C:\data\projects\private\gertontenham.nl\contents\feed.html</loc>
+      <lastmod>2014-10-21</lastmod>
+      
+      <changefreq>daily</changefreq>
+      
+      
+   </url>
+  
+    
+  <url>
+      <loc>http://localhost:8080/C:\data\projects\private\gertontenham.nl\contents\robots.html</loc>
+      <lastmod>2014-10-21</lastmod>
+      
+      
+   </url>
+  
+    
+  <url>
+      <loc>http://localhost:8080/C:\data\projects\private\gertontenham.nl\contents\sitemap.html</loc>
+      <lastmod>2014-10-21</lastmod>
+      
+      
+   </url>
+  
+    
+  <url>
+      <loc>http://localhost:8080/C:\data\projects\private\gertontenham.nl\contents\contact\index.html</loc>
+      <lastmod>2014-11-04</lastmod>
+      
+      
+   </url>
+  
+    
+  <url>
+      <loc>http://localhost:8080/C:\data\projects\private\gertontenham.nl\contents\authors\gerton-ten-ham.html</loc>
+      <lastmod>2014-10-25</lastmod>
+      
+      
+   </url>
+  
+    
+  <url>
+      <loc>http://localhost:8080/C:\data\projects\private\gertontenham.nl\contents\over-mij\index.html</loc>
+      <lastmod>2014-11-08</lastmod>
+      
+      
+   </url>
+  
+    
+  <url>
+      <loc>http://localhost:8080/C:\data\projects\private\gertontenham.nl\contents\articles\permacultuur-opleiding-2014\index.html</loc>
+      <lastmod>2014-11-08</lastmod>
+      
+      
+   </url>
+  
+	
+</urlset>
