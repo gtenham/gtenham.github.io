@@ -16,14 +16,6 @@
   
     
   <url>
-      <loc>http://www.gertontenham.nl/over-mij/index.html</loc>
-      <lastmod>2014-11-08</lastmod>
-      
-      
-   </url>
-  
-    
-  <url>
       <loc>http://www.gertontenham.nl/contact/index.html</loc>
       <lastmod>2014-11-04</lastmod>
       
@@ -31,7 +23,14 @@
    </url>
   
     
-     
+  <url>
+      <loc>http://www.gertontenham.nl/over-mij/index.html</loc>
+      <lastmod>2014-11-08</lastmod>
+      
+      
+   </url>
+  
+    
   <url>
       <loc>http://www.gertontenham.nl/articles/permacultuur-opleiding-2014/index.html</loc>
       <lastmod>2014-11-08</lastmod>
@@ -42,7 +41,7 @@
     
   <url>
       <loc>http://www.gertontenham.nl/articles/wormenbak-beginnen/index.html</loc>
-      <lastmod>2014-11-08</lastmod>
+      <lastmod>2014-11-15</lastmod>
       
       
    </url>
