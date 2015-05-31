@@ -95,11 +95,15 @@ nav li a span {
     display: block;
     padding: 10px 15px;
 }
-nav a.selected.blog span, nav a:hover.blog span,
+nav a.selected.blog span, nav a:hover.blog span {
+     -webkit-box-shadow: inset 0 -4px 0 #2697f7;
+     box-shadow: inset 0 -4px 0 #2697f7;
+     color: #2697f7;
+}
 nav a.selected.portfolio span, nav a:hover.portfolio span {
-    -webkit-box-shadow: inset 0 -4px 0 #2697f7;
-    box-shadow: inset 0 -4px 0 #2697f7;
-    color: #2697f7;
+    -webkit-box-shadow: inset 0 -4px 0 #a0d3e8;
+    box-shadow: inset 0 -4px 0 #a0d3e8;
+    color: #a0d3e8;
 }
 nav a.selected.contact span, nav a:hover.contact span {
     -webkit-box-shadow: inset 0 -4px 0 #45cb8a;
@@ -156,9 +160,11 @@ article header h3, article header h1 {
     padding-left: 15px;
 }
 
-.blog article header h3, .blog article header h1,
-.portfolio article header h3, .portfolio article header h1 {
+.blog article header h3, .blog article header h1 {
     border-left-color: #2697f7;
+}
+.portfolio article header h3, .portfolio article header h1 {
+    border-left-color: #a0d3e8;
 }
 .contact article header h3, .contact article header h1 {
     border-left-color: #45cb8a;
@@ -175,16 +181,18 @@ article header h3 a {
     border-bottom-width: 4px;
 }
 .portfolio .project li.tab-title.active {
-    border-bottom-color: #2697f7;
+    border-bottom-color: #a0d3e8;
 }
 
 footer .content {
     color: #fff;
     padding: 30px;
 }
-.blog footer .content,
-.portfolio footer .content {
+.blog footer .content {
     background: #2697f7;
+}
+.portfolio footer .content {
+    background: #a0d3e8;
 }
 .contact footer .content {
     background: #45cb8a;
@@ -204,8 +212,8 @@ footer .content p a {
 }
 
 .meta {
-    margin: 40px 0;
-    font-size: 1.4em;
+    margin: 20px 0;
+    font-size: 1.1em;
 }
 .meta time {
     background: #cccccc;
@@ -217,7 +225,7 @@ footer.meta {
     clear: both;
 }
 footer.meta i, .meta .categories i {
-    color: #2697f7;
+    color: #008cba;
 }
 .social {
     margin: 30px 0;
